@@ -3354,7 +3354,7 @@
       "id": 16
     },
     {
-      "fullname": "SHUBHAM VERMA",
+      "fullname": "aj",
       "email": "a@j.com",
       "password": "a@j.com",
       "phone": 9074967678,
@@ -3364,6 +3364,18 @@
       "purchase": [],
       "favorite": [],
       "id": 17
+    }, 
+    {
+      "fullname": "hd",
+      "email": "hd@.com",
+      "password": "hd123",
+      "phone": 9074967678,
+      "avator": "https://ca.slack-edge.com/T049YSPNG02-U04AXQGCH6G-146f35c95621-512",
+      "isAdmin": false,
+      "cart": [],
+      "purchase": [],
+      "favorite": [],
+      "id": 18
     }
   ],
   "admin": [
