@@ -3355,8 +3355,8 @@
     },
     {
       "fullname": "aj",
-      "email": "a@j.com",
-      "password": "a@j.com",
+      "email": "a@gmail.com",
+      "password": "aj123",
       "phone": 9074967678,
       "avator": "https://ca.slack-edge.com/T049YSPNG02-U04AXQGCH6G-146f35c95621-512",
       "isAdmin": false,
@@ -3367,7 +3367,7 @@
     }, 
     {
       "fullname": "hd",
-      "email": "hd@.com",
+      "email": "hd@gmail.com",
       "password": "hd123",
       "phone": 9074967678,
       "avator": "https://ca.slack-edge.com/T049YSPNG02-U04AXQGCH6G-146f35c95621-512",
